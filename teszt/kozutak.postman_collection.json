@@ -1,0 +1,19 @@
+{
+	"info": {
+		"_postman_id": "c1bf0f3e-d640-432e-bec0-6822929db67a",
+		"name": "kozutak",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "41645721"
+	},
+	"item": [
+		{
+			"name": "get",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "http://localhost:3000/regiok"
+			},
+			"response": []
+		}
+	]
+}
